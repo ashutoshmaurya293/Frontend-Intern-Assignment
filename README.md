@@ -1,8 +1,11 @@
-# React + Vite
+# React To-Do App
+A simple to-do application built using React, JavaScript, and CSS. Users can add tasks, mark them as completed, and delete tasks. Task data is stored in local storage.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. React To-Do Application:
+I’ve created a to-do app using React, which is a popular JavaScript library for building user interfaces. React allows you to create reusable components, manage state, and efficiently update the UI when data changes. Todo app likely includes features such as adding tasks and deleting tasks.
 
-Currently, two official plugins are available:
+## 2. Local Storage Integration:
+I’ve implemented local storage to store task data within the user’s browser. Local storage provides a way to persist data even after the user closes the app or refreshes the page. Tasks added by the user are saved in local storage and retrieved when the app loads.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 3. Responsive Design:
+The Todo app is responsive, adapting well to different screen sizes and devices. Responsive design is crucial for providing a consistent user experience across various platforms.
